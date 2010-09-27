@@ -47,7 +47,7 @@ _MY_EMAIL="support@omega8.cc"
 ### _AEGIR_VERSION=HEAD
 ### _AEGIR_VERSION=0.4-alpha14
 ###
-_AEGIR_VERSION=HEAD
+_AEGIR_VERSION=0.4-alpha14
 
 
 ###----------------------------------------###
